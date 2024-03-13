@@ -1,0 +1,11 @@
+{
+  "name": "selfimprovementquotegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch recourses/stylesheet/style.scss:asset/css/style.min.css --style compressed"
+  },
+  "author": "Wasim Osama",
+  "license": "ISC"
+}
